@@ -1,0 +1,8 @@
+typer[all]
+rich
+watchdog
+send2trash
+requests
+python-dotenv
+psutil
+orjson

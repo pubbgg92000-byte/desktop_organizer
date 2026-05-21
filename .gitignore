@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/
+reports/
+restore-maps/
+file-organizer-records/
+Trash Review/
+node_modules/
+.agent/

@@ -1,0 +1,10 @@
+{
+  "watch_folders": ["~/Downloads"],
+  "organize_folders": ["~/Downloads", "~/Desktop", "~/Documents"],
+  "protected_folders": ["Applications", "System", ".git", "node_modules", "Projects"],
+  "dry_run": false,
+  "enable_duplicates": true,
+  "enable_telegram": true,
+  "trash_review_enabled": true,
+  "log_level": "INFO"
+}

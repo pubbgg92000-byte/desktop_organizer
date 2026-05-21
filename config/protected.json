@@ -1,0 +1,22 @@
+{
+  "protected_folders": [
+    "~/Projects",
+    "~/Documents/Bank",
+    "~/Documents/Legal",
+    "~/Documents/IDs",
+    "~/Documents/Certificates",
+    "~/Documents/Resume"
+  ],
+  "protected_extensions": [
+    ".env", ".key", ".pem", ".p12", ".pfx", ".db", ".sqlite"
+  ],
+  "never_touch": [
+    "/Applications",
+    "/System",
+    "/Library",
+    "/private",
+    "/bin",
+    "/sbin",
+    "/usr"
+  ]
+}
